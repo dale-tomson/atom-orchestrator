@@ -618,6 +618,27 @@ copy of the Program in return for a fee.
 
                      END OF TERMS AND CONDITIONS
 
+==============================================================================
+ADDITIONAL TERMS (Per Section 7 of the GNU AGPLv3)
+
+As a condition of granting the permissions under this License, the Original 
+Author requires that any derivative works, implementations, or software 
+applications built based on the architecture, logic, or specifications 
+detailed in this whitepaper must prominently display a clear attribution 
+notice in their documentation, user interface, or code repository back to 
+the original work: "Based on the original whitepaper design by Dale Tomson 
+(https://github.com/dale-tomson/atom-orchestrator)".
+
+This attribution requirement applies to:
+- Documentation that describes or references the Atom Orchestrator design
+- Commercial or non-commercial implementations
+- Educational materials or tutorials
+- Any derivative architectural patterns or concepts
+
+The attribution should be reasonably prominent and easily discoverable by 
+users or developers interacting with the work.
+==============================================================================
+
             How to Apply These Terms to Your New Programs
 
   If you develop a new program, and you want it to be of the greatest
