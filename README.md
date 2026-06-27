@@ -150,7 +150,7 @@ All technical details are in the comprehensive white paper. Start with the **[Wh
 This project is licensed under the **GNU Affero General Public License v3.0** with supplementary attribution terms. See [LICENSE](./LICENSE) for details.
 
 **Attribution requirement:** Derivative works must include:
-> "Based on the original whitepaper design by Dale Tomson (https://github.com/atom-orchestrator/atom)"
+> "Based on the original whitepaper design by Dale Tomson (https://github.com/dale-tomson/atom-orchestrator)"
 
 ---
 
