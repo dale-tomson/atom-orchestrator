@@ -659,3 +659,26 @@ specific requirements.
 if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU AGPL, see
 <https://www.gnu.org/licenses/>.
+
+==============================================================================
+ADDITIONAL TERMS (Per Section 7 of the GNU AGPLv3)
+==============================================================================
+
+As a condition of granting the permissions under this License, the Original 
+Author requires that any derivative works, implementations, or software 
+applications built based on the architecture, logic, or specifications 
+detailed in this whitepaper must prominently display a clear attribution 
+notice in their documentation, user interface, or code repository back to 
+the original work: "Based on the original whitepaper design by Dale Tomson 
+(https://github.com/dale-tomson/atom-orchestrator)".
+
+This attribution requirement applies to:
+- Software implementations of this architecture
+- Derivative technical documentation
+- Educational materials based on this design
+- Any projects using this specification as a reference
+
+These supplementary terms are permitted under Section 7(b) of the GNU AGPLv3,
+which allows requiring preservation of specified reasonable legal notices 
+and author attributions in derivative works.
+==============================================================================
